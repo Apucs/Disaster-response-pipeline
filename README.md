@@ -1,13 +1,12 @@
 # Disaster Response Pipeline Project
 
 ## __Introduction:__  
-    In the Project, I have worked with a data set containing real messages that were sent during 
-    disaster events. I have created a machine learning pipeline to categorize these events so that
-    people can send the messages to an appropriate disaster relief agency.
+   In the Project, I have worked with a data set containing real messages that were sent during disaster events.
+   I have created a machine learning pipeline to categorize these events so that people can send messages to an 
+   appropriate disaster relief agency.
     
-    This project includes a web app built with flusk and woth plotly visualization where an emergency
-    worker can input a new message and get classification esults in several categories. This web display 
-    visualizations of the data.   
+   This project includes a web app built with flask and with Plotly visualization where an emergency worker can input 
+   a new message and get classification results in several categories. This web app displays visualizations of the data.  
     
  __Go to the web app from [this](https://view6914b2f4-3001.udacity-student-workspaces.com/) link__
     
