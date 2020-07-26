@@ -38,10 +38,10 @@ To train the model-
 3. Go to http://0.0.0.0:3001/
 
 ### __Use the pretrained model__
-To use the pretrained model: 
-    - Pretained model can be downloaded from [here](https://drive.google.com/file/d/1LMp5KkW5fd-rB_VAlSVc16H9UquxuR4r/view?usp=sharing)
-    - Place that model to ```model``` directory
-    - Then run `python run.py`
+To use the pretrained model:   
+    - Pretained model can be downloaded from [here](https://drive.google.com/file/d/1LMp5KkW5fd-rB_VAlSVc16H9UquxuR4r/view?usp=sharing)  
+    - Place that model to ```model``` directory  
+    - Then run `python run.py` from ```app``` directory
     
     
     
