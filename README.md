@@ -39,7 +39,12 @@ To train the model-
 
 ### __Use the pretrained model__
 To use the pretrained model: 
-    Pretained model can be downloaded from [here](https://drive.google.com/file/d/1LMp5KkW5fd-rB_VAlSVc16H9UquxuR4r/view?usp=sharing)
+    - Pretained model can be downloaded from [here](https://drive.google.com/file/d/1LMp5KkW5fd-rB_VAlSVc16H9UquxuR4r/view?usp=sharing)
+    - Place that model to ```model``` directory
+    - Then run `python run.py`
+    
+    
+    
     
     
     
